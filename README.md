@@ -199,7 +199,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
-
-Feel free to customize this README.md file according to your project's specific details and requirements.
